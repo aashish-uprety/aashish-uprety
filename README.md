@@ -4,39 +4,28 @@
 
 **📊Data Analyst**
 
-  My interests lie at the intersection of academic research and industry-driven analytics, where   data is used to generate reliable insights and support informed decision-making.
-  
-  I am experienced in working with structured datasets, performing statistical analysis, and       presenting results in a clear and reproducible manner.
+My interests lie at the intersection of academic research and industry-driven analytics, where   data is used to generate reliable insights and support informed decision-making.
+
+I am experienced in working with structured datasets, performing statistical analysis, and       presenting results in a clear and reproducible manner.
 
 **🔍Areas of Interest**
-
-  Statistical Data Analysis
-
-  Applied Research & Data Interpretation
-  
-  Data Cleaning and Exploratory Data Analysis (EDA)
-  
-  Reporting and Data Visualization
-  
-  Research Methodology
+* Statistical Data Analysis
+* Applied Research & Data Interpretation
+* Data Cleaning and Exploratory Data Analysis (EDA)
+* Reporting and Data Visualization
+* Research Methodology
 
 **🛠️Technical Skills**
-
-  R Studio
-  
-  SPSS
-  
-  MS Excel
-  
-  Google Sheets
+* R Studio
+* SPSS
+* MS Excel
+* Google Sheets
 
 **🧠Core Competencies**
 
-  Descriptive & Inferential Statistics
-  
-  Data Cleaning & Validation
-  
-  Tabulation, Visualization, and Reporting
+* Descriptive & Inferential Statistics
+* Data Cleaning & Validation
+* Tabulation, Visualization, and Reporting
 
 **🤝Collaboration**
 
