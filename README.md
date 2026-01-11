@@ -20,7 +20,7 @@
   
   Research Methodology
 
-**Technical Skills**
+**🛠️Technical Skills**
 
   R Studio
   
@@ -30,7 +30,7 @@
   
   Google Sheets
 
-**Core Competencies**
+**🧠Core Competencies**
 
   Descriptive & Inferential Statistics
   
@@ -38,7 +38,7 @@
   
   Tabulation, Visualization, and Reporting
 
-**Collaboration**
+**🤝Collaboration**
 
   I am open to collaborating on:
   
@@ -48,7 +48,7 @@
   
   3. Applied analytics projects with real-world datasets
 
-**Contact**
+**📫Contact**
 
   GitHub: @aashish-uprety
   
