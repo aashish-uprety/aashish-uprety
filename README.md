@@ -1,46 +1,42 @@
-**Hi there👋**
+# Hi there 👋, I'm Aashish Uprety
 
-**Aashish Uprety**
+My interests lie at the intersection of **academic research** and **industry-driven analytics**, focusing on transforming raw data into reliable insights to drive informed decision-making. I specialize in working with structured datasets, performing statistical analysis, and presenting findings in a clear, reproducible, and actionable manner.
 
-**📊Data Analyst**
+---
 
-My interests lie at the intersection of academic research and industry-driven analytics, where   data is used to generate reliable insights and support informed decision-making.
+### 🔍 Areas of Interest
+- 📈 **Statistical Data Analysis**
+- 🔬 **Agricultural Research & Data Interpretation**
+- 🧹 **Data Cleaning & Exploratory Data Analysis (EDA)**
+- 📊 **Reporting & Data Visualization**
+- 🗺️ **Geospatial Analysis**
 
-I am experienced in working with structured datasets, performing statistical analysis, and       presenting results in a clear and reproducible manner.
+---
 
-**🔍Areas of Interest**
-* Statistical Data Analysis
-* Applied Research & Data Interpretation
-* Data Cleaning and Exploratory Data Analysis (EDA)
-* Reporting and Data Visualization
-* Research Methodology
+### 🛠️ Technical Skills
 
-**🛠️Technical Skills**
-* R Studio
-* SPSS
-* MS Excel
-* Google Sheets
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, R |
+| **Libraries & Frameworks** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Environments** | Jupyter Notebook, Google Colab, RStudio |
+| **Softwares** | ArcGIS, QGIS, SPSS, MS Excel, Google Sheets |
+| **Drone Skills** | Drone Piloting/Operations, Flight Safety, Pre-Flight Checks, Aerial Photography & Videography |
 
-**🧠Core Competencies**
+---
 
-* Descriptive & Inferential Statistics
-* Data Cleaning & Validation
-* Tabulation, Visualization, and Reporting
+### 🤝 Collaboration & Projects
+I am open to collaborating on:
+- 🎓 **Academic research** & business data analysis projects
+- 📊 **Survey data analysis** and statistical reporting
+- 🗺️ **GIS, Drone Surveying & Geospatial analytics** utilizing real-world datasets
+- 💡 **Applied analytics** with multidisciplinary teams
 
-**🤝Collaboration**
+---
 
-  I am open to collaborating on:
-  
-  1. Academic research and business project involving data analysis
-  
-  2. Survey data analysis and statistical reporting
-  
-  3. Applied analytics projects with real-world datasets
+### 📫 Connect with Me
 
-**📫Contact**
-
-  GitHub: @aashish-uprety
-  
-  LinkedIn: https://www.linkedin.com/in/aashish-uprety-9b1726358/
-  
-  X: https://x.com/aashishuprety0
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/aashishuprety)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/aashishuprety0)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/aashish-uprety)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aashishuprety0@gmail.com)
